@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Technologist.png" alt="NURNOBI+JHUMA" width="40" height="40" /> Team NJ: Shared Workspace
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Technologist.png" alt="Technologist" width="40" height="40" /> Team NJ: Shared Workspace
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
@@ -14,7 +14,8 @@
   <a href="#-key-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
-  <a href="#-the-creators">The Creators</a>
+  <a href="#-the-creators">The Creators</a> •
+  <a href="#-get-in-touch">Contact</a>
 </p>
 
 ---
@@ -61,6 +62,5 @@ Make sure you have Git installed.
 ### Installation
 
 1. **Clone the Repo**
-   ```bash
+```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   
