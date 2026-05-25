@@ -63,4 +63,23 @@ Make sure you have Git installed.
 
 1. **Clone the Repo**
 ```bash
+
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/your-nurnobi-username">
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=nurnobi" width="100px;" alt="Nurnobi"/><br />
+<sub><b>NURNOBI</b></sub>
+</a><br />
+👑 Developer
+</td>
+<td align="center">
+<a href="https://github.com/your-jhuma-username">
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=jhuma" width="100px;" alt="Jhuma"/><br />
+<sub><b>JHUMA</b></sub>
+</a><br />
+🎨 Designer / Dev
+</td>
+</tr>
+</table>
