@@ -65,21 +65,17 @@ Make sure you have Git installed.
 ```bash
 
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://github.com/your-nurnobi-username">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=nurnobi" width="100px;" alt="Nurnobi"/><br />
-<sub><b>NURNOBI</b></sub>
-</a><br />
-👑 Developer
-</td>
-<td align="center">
-<a href="https://github.com/your-jhuma-username">
-<img src="https://api.dicebear.com/7.x/bottts/svg?seed=jhuma" width="100px;" alt="Jhuma"/><br />
-<sub><b>JHUMA</b></sub>
-</a><br />
-🎨 Designer / Dev
-</td>
-</tr>
-</table>
+<p align="left">
+<a href="tel:+8801715559179">
+<img src="https://img.shields.io/badge/Call%20Me-01715559179-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+</a>
+<a href="https://wa.me/8801715559179" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://t.me/your_telegram_username" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-Connect-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61566672951149" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+</p>
