@@ -1,7 +1,7 @@
-<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="380" style="border-radius:35px; border:6px solid #ff1493; box-shadow:0 0 80px #ff1493;"><br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=100&lines=👑+WELCOME+TO+VIP+PROFILE+👑" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1300&height=110&lines=💖+NURNOBI+❤️+JHUMA+💖" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1300&height=100&lines=🔥+TRUE+LOVE+NEVER+ENDS+🔥" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=1300&height=100&lines=💞+FOREVER+TOGETHER+💞" /><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=1300&height=110&lines=👑+ROCKY+BHAI+OFFICIAL+👑" /><br><br>
 
+<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="380" style="border-radius:35px; border:6px solid #ff1493; box-shadow:0 0 80px #ff1493;"><br><br>
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NURNOBI%20❤️%20JHUMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/></div>---
 
 <div align="center">💖 ABOUT OUR LOVE 💖</div>
