@@ -22,7 +22,11 @@
 
 <div align="center">📸 OUR BEAUTIFUL MOMENT 📸</div>
 
-<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="450" style="border-radius:30px; border:5px solid #ff1493; box-shadow:0 0 50px #ff1493;"></div>---
+<div align="center"><video width="350" height="600" autoplay muted loop controls style="border-radius:25px; box-shadow:0 0 40px #ff1493; border:4px solid white;">
+  <source src="https://i.imgur.com/4U67nnQ.mp4" type="video/mp4">
+</video><br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&width=900&lines=👑+WELCOME+TO+VIP+LOVE+PROFILE+👑;💖+NURNOBI+❤️+JHUMA+💖;🔥+TRUE+LOVE+NEVER+ENDS+🔥;💞+FOREVER+TOGETHER+💞;👑+ROCKY+BHAI+OFFICIAL+👑" /><br><br>
 
 <div align="center">⚡ VIP LOVE POWER ⚡</div>
 
