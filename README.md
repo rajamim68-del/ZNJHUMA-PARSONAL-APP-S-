@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Technologist.png" alt="Technologist" width="40" height="40" /> Team NJ: Shared Workspace
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Technologist.png" alt="NURNOB+JHUMA" width="40" height="40" /> Team N+J: Shared Workspace
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
