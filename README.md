@@ -4,11 +4,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NURNOBI%20❤️%20JHUMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/></div>---
 
-<div align="center">💖 ABOUT OUR LOVE 💖</div>
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF1493&center=true&vCenter=true&width=1200&height=80&lines=👑+NAME+:+NURNOBI" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&height=80&lines=💖+LOVE+QUEEN+:+JHUMA" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=80&lines=🌍+COUNTRY+:+BANGLADESH" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=1200&height=80&lines=💍+DREAM+:+MARRIAGE" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1200&height=80&lines=🔥+STATUS+:+VIP+LOVE+STORY" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=80&lines=💞+RELATIONSHIP+:+FOREVER+LOVE" /></div>---
-
-<div align="center">🎥 VIP LOVE VIDEO 🎥</div>
+<div align="center">💖 ABOUT OUR LOVE 
 
 <div align="center"><video width="450" height="750" autoplay muted loop controls style="border-radius:35px; border:6px solid #ff1493; box-shadow:0 0 80px #ff1493;">
   <source src="https://i.imgur.com/4U67nnQ.mp4" type="video/mp4">
