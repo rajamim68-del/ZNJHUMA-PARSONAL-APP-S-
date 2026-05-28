@@ -7,10 +7,15 @@
 <div align="center">💖 ABOUT OUR LOVE 💖</div>
 
 <div align="center">👑 Name        : NURNOBI
+  
 💖 Love Queen  : JHUMA
+
 🌍 Country     : Bangladesh
+
 💍 Dream       : Marriage
+
 🔥 Status      : VIP LOVE STORY
+
 💞 Relationship: FOREVER LOVE
 
 </div>---
