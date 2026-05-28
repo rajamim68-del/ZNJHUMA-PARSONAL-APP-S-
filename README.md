@@ -1,81 +1,60 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Technologist.png" alt="NURNOB+JHUMA" width="40" height="40" /> Team N+J: Shared Workspace
+<div align="center">💖 NURNOBI ❤️ JHUMA 💖</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Contributions-welcome-orange.svg" alt="Contributions Welcome" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" />
-</p>
+<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="320" style="border-radius:25px; box-shadow:0 0 30px #ff1493; border:4px solid white;"><br><br>
 
-<p align="center">
-  A collaborative coding venture brought to life by <b>NURNOBI</b> & <b>JHUMA</b>. Built with passion, clean code, and modern design principles.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF1493&center=true&vCenter=true&width=800&lines=👑+WELCOME+TO+VIP+LOVE+PROFILE+👑;NURNOBI+❤️+JHUMA;TRUE+LOVE+NEVER+ENDS;ROCKY+BHAI+OFFICIAL" /><br><img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=header&text=NURNOBI%20❤️%20JHUMA&fontSize=40&fontColor=ffffff&animation=fadeIn"/></div>---
 
-<p align="center">
-  <a href="#-key-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-the-creators">The Creators</a> •
-  <a href="#-get-in-touch">Contact</a>
-</p>
+👑 ABOUT US
+
+👑 Owner       : NURNOBI
+💖 Love Queen  : JHUMA
+🌍 Country     : Bangladesh
+💍 Dream       : Marriage
+🔥 Status      : VIP LOVE STORY
+💞 Relationship: Forever Together
 
 ---
 
-## 🎯 Project Overview
+📸 OUR BEAUTIFUL PHOTO
 
-> [!NOTE]
-> **Add a short, catchy description of your project here.** > *e.g., "This is our official project workspace where we design and develop awesome things together!"*
+<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="450" style="border-radius:25px; border:5px solid #ff1493; box-shadow:0 0 40px #ff1493;"></div>---
 
-<p align="center">
-  <img src="https://i.imgur.com/YuiR8FB.jpeg" alt="Nurnobi & Jhuma Project Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
-</p>
+💖 LOVE STATUS
 
----
+<div align="center">LOVE POWER| STATUS
+💘 Trust| ██████████ 100%
+🌹 Care| ██████████ 100%
+👑 Loyalty| ██████████ 100%
+💞 Forever Love| ██████████ ∞
 
-## ✨ Key Features
+</div>---
 
-* ⚡ **High Performance:** Optimized code logic for fast execution.
-* 🎨 **Beautiful UI/UX:** Crafted with care for a seamless user experience.
-* 📱 **Fully Responsive:** Works perfectly on Desktop, Tablet, and Mobile screens.
-* 🔒 **Secure & Scalable:** Structured to grow with proper safety measures.
+🚀 VIP SKILLS
 
----
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,github,vscode,linux" /></div>---
 
-## 🛠️ Tech Stack
+🌸 BEAUTIFUL LOVE QUOTE
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="center">«💖 “Real love is staying together in every situation.” 💖»
 
----
+</div>---
 
-## 🚀 Getting Started
+📱 CONTACT ME
 
-Follow these steps to set up the project locally on your machine:
+<div align="center"><a href="https://wa.me/8801715559179">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a></div>---
 
-### Prerequisites
-Make sure you have Git installed.
+🏆 VIP BADGES
 
-### Installation
+<div align="center">https://img.shields.io/badge/LOVE-FOREVER-ff1493?style=for-the-badge
 
-1. **Clone the Repo**
-```bash
+https://img.shields.io/badge/STATUS-VIP%20COUPLE-blue?style=for-the-badge
 
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-<p align="left">
-<a href="tel:+8801715559179">
-<img src="https://img.shields.io/badge/Call%20Me-01715559179-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-</a>
-<a href="https://wa.me/8801715559179" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-<a href="https://t.me/your_telegram_username" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-Connect-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61566672951149" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-</p>
+https://img.shields.io/badge/POWER-ROCKY%20BHAI-black?style=for-the-badge
+
+</div>---
+
+<div align="center">💞 NURNOBI ❤️ JHUMA FOREVER 💞
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=100&section=footer"/></div>
