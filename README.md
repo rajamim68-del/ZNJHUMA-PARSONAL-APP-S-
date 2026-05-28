@@ -1,4 +1,6 @@
-<div align="center"><img src="https://i.imgur.com/YuiR8FB.jpeg" width="320" style="border-radius:25px; box-shadow:0 0 40px #ff1493; border:5px solid white;"><br><br>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=💞+NURNOBI+❤️+JHUMA+FOREVER+💞;👑+VIP+LOVE+PROFILE+👑;🔥+THANKS+FOR+VISITING+🔥" /><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=120&section=footer"/></div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👑+WELCOME+TO+VIP+PROFILE+👑;💖+NURNOBI+❤️+JHUMA+💖;🔥+TRUE+LOVE+NEVER+ENDS+🔥;💞+FOREVER+TOGETHER+💞;👑+ROCKY+BHAI+OFFICIAL+👑" /><br><img src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=150&section=header&text=NURNOBI%20❤️%20JHUMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/></div>---
 
